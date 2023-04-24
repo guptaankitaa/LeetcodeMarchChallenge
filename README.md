@@ -1,2 +1,2 @@
 # LeetcodeMarchChallenge
-this repo have solution of Leetcode Daily Challenge of month March with explanation of code in comments
+this repo have solution of Leetcode Daily Challenge of month March and April with explanation of code in comments
